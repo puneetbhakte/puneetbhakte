@@ -37,6 +37,7 @@ Here are some of the projects I've worked on:
 - Java
 - MVVM Architecture
 - Room Database
+- RestAPI Retrofit
 - Git and Version Control
 - Problem-solving
 - Communication and Collaboration
@@ -46,4 +47,4 @@ Here are some of the projects I've worked on:
 - LinkedIn: www.linkedin.com/in/puneet-bhakte-68a947243
 - Email: puneetbhakte0099@gmail.com
 
-Feel free to reach out to me if you'd like to collaborate on projects, discuss Android development, or just say hello! 😊
+Feel free to reach out to me if you'd like to collaborate on projects, discuss Android development 😊
